@@ -209,4 +209,4 @@ client.on("messageCreate", async message => {
 });
 
 // Connexion du client
-client.login("MTI4ODIxNzAzMzA2MTY5OTU4NA.GH1Yv7.rsYNjsuQUSjRSuL7TeFcSR0rAXPbZkgosW6YV8");
+client.login("MTI4ODIxNzAzMzA2MTY5OTU4NA.GgFdkS.ICJ8w4RnNCcQ8H4C-34MDP5LyXkh8ML_rAyk6M");
